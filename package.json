@@ -1,0 +1,22 @@
+{
+  "name": "image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docxtemplater": "^3.21.1",
+    "docxtemplater-image-module-free": "^1.1.1",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "image-size": "^0.9.7",
+    "jszip": "^2.6.1",
+    "path": "^0.12.7",
+    "stream": "^0.0.2"
+  }
+}
